@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MegaZoom</string>
+
+    <string name="notification_tips">Zoom in on life\'s details with our powerful Magnifier app! 🔍</string>
+
+    <string name="capture">Capture</string>
+
+    <string name="ps_done_front_num">%1$d/%2$d Complete</string>
+</resources>
